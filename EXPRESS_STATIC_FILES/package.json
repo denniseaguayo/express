@@ -1,0 +1,28 @@
+{
+  "name": "express_static_files",
+  "version": "1.0.0",
+  "description": "newFile",
+  "main": "app.js",
+  "dependencies": {
+    "@ng-bootstrap/ng-bootstrap": "^6.1.0",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denniseaguayo/express.git"
+  },
+  "keywords": [
+    "deny"
+  ],
+  "author": "dennise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denniseaguayo/express/issues"
+  },
+  "homepage": "https://github.com/denniseaguayo/express#readme"
+}
